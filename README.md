@@ -10,6 +10,7 @@ In this Tableau story contains different graphs based on data point collected fr
 
 [link to dashboard](https://public.tableau.com/profile/harishawn.ramrup#!/vizhome/CitiBikeAnalysis_16034992220820/CitiStory "link to dashboard")
 
+![](images/"SS1.png")
 
 ## Summary 
 
