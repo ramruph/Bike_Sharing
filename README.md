@@ -8,7 +8,7 @@ The Citi Bike program allows customers to checkout a bike and ride it around the
 ## Results
 In this Tableau story contains different graphs based on data point collected from the New York City citibike program.
 
-[link to dashboard](https://public.tableau.com/profile/harishawn.ramrup#!/vizhome/CitiBikeAnalysis_16034992220820/CitiStory "link to dashboard")
+[link to dashboard](https://public.tableau.com/profile/harishawn.ramrup#!/vizhome/CitiBikeAnalysis_16034992220820/CitiStory "Link to Dashboard")
 
 ![](images/SS1.png)
 
